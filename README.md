@@ -1,4 +1,4 @@
-<h1 align="center">XKGB Software </h1>
+<h1 align="center">DH9K Software </h1>
 
 <p>This project is mainly focused on providing download links for varius software and iso's for multiple operating systems in a convienent one-click download way.</p>
 
