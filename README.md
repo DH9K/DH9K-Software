@@ -2,11 +2,12 @@
 
 <p>This project is mainly focused on providing download links for varius software and iso's for multiple operating systems in a convienent one-click download way.</p>
 
+<!--
 > [!IMPORTANT]
 > <h3>We are working to get an official domain, if you can please donate <a href=""><b>here</b></a></h3>
 
-<p>In the meantime the current site can be viewed <a href=""><b>here</b></a></p>
-
+<p>In the meantime the current site can be viewed <a href="https://dh9k.github.io/DH9K-Software/"><b>here</b></a></p>
+-->
 
 <p>If you have any suggestions please make an issue.</p>
 
