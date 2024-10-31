@@ -81,6 +81,12 @@
                 <a class="link" href="https://plug-mirror.rcac.purdue.edu/archlinux/iso/2024.10.01/archlinux-2024.10.01-x86_64.iso" download><ul>Arch</ul></a>
             <hr></div>
             
+            <h1 class="dropdown" onclick="showTools()">Tools: </h1>
+            <div id="tools">
+                <a class="link" href="https://files.dog/OD%20Rips/MediCat/v21.12/MediCat.USB.v21.12.7z" download><ul>MediCat Usb</ul></a>
+                <a claa="link" href="https://www.hirensbootcd.org/files/HBCD_PE_x64.iso" download><ul>Hirens Boot CD</ul></a>
+            <hr></div>
+            
             
             
             <!-- Dropdown Script -->
@@ -104,6 +110,17 @@
                     
                     else {
                         contentBootables.style.display = "block";
+                    }
+                }
+
+                function showTools(){
+                    var contentTools = document.getElementById("tools");
+                    if (contentTools.style.display === "block") {
+                        contentTools.style.display = "none";
+                    }
+                    
+                    else {
+                        contentTools.style.display = "block";
                     }
                 }
             </script>
